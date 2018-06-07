@@ -19,8 +19,8 @@
 }
 #content {
   background: #FFF;
-  width: 300px;
-  padding: 40px;
+  width: 50%;
+  padding: 10%;
   position: absolute;
   display: flex;
   flex-direction: column;
